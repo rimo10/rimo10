@@ -1,3 +1,4 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 ###             Hi there 👋, I'm Rimo Ghosh, an AI/ML enthusiast.
 <hr>
 - 🔭 I’m currently working on Python,c++ and Machine Learning.</br>

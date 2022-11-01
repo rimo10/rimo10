@@ -5,5 +5,8 @@
 - 👯 I’m looking to collaborate on ML projects. </br>
 - 💬 Ask me anything you like. </br>
 - 📫 How to reach me: ghoshrimo02@gmail.com</br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimo10&theme=tokyonight)
 <!--
 **rimo10/rimo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

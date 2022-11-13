@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rimo Ghosh.</h1>
-<h3 align="center">I'm Passionate about ML</h3>
+<h3 align="center">I'm Passionate about ML and love exploring new stuff</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimo10" alt="rimo10" /></a> </p>
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rimoghosh19" target="blank"><img src="https://img.shields.io/twitter/follow/rimoghosh19?logo=twitter&style=for-the-badge" alt="rimoghosh19" /></a> </p>
 
-- 🔭 I’m currently working on **Python,c++ and Machine Learning.**
+- 🔭 I’m currently working on **Python,C/C++ and Machine Learning.**
 
 - 🌱 I’m currently learning **Neural Networks and Backend Development.**
 
